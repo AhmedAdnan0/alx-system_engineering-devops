@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x,O+r help
+chmod ug+x,o+r help
