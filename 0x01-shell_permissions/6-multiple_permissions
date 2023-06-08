@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 554 help
+chmod ug+x,O+r help
